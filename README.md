@@ -19,6 +19,7 @@ Work through the Well-Grounded Rubyist Book by David A. Black to get more comfor
 - [ ] Chapter 11 - Regular expressions and regexp-based string operations 
 - [ ] Chapter 12 - I/O Operations 
 
+### Part 3
 - [ ] Chapter 13 - Object Individuation 
 - [ ] Chapter 14 - Callable and runnable objects 
 - [ ] Chapter 15 - Callbacks, hooks, and runtime introspection 
